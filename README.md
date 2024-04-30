@@ -1,33 +1,32 @@
-![alt=""](Images/application-image.png)
+# KaseiCoin Crowdsale
+
+![KaseiCoin Logo](Images/application-image.png)
 
 ## Background
 
-After waiting for years and passing several tests, the Martian Aerospace Agency selected you to become part of the first human colony on Mars. As a prominent fintech professional, they chose you to lead a project developing a monetary system for the new Mars colony. You decided to base this new system on blockchain technology and to define a new cryptocurrency named **KaseiCoin**. (Kasei means Mars in Japanese.)
+After years of training and tests, the Martian Aerospace Agency selected you to join the first human colony on Mars. As a prominent fintech professional, you were chosen to lead the development of a monetary system for the Mars colony. You decided to base this system on blockchain technology and create a new cryptocurrency named **KaseiCoin** (Kasei means "Mars" in Japanese).
 
-KaseiCoin will be a fungible token that’s ERC-20 compliant. You’ll launch a crowdsale that will allow people who are moving to Mars to convert their earthling money to KaseiCoin.
+Kasei Coin will be a fungible token that’s ERC-20 compliant, enabling users to participate in a crowdsale to convert their earth currency into KaseiCoin.
 
 ## Instructions
 
-The steps for this assignment are divided into the following subsections:
+The assignment steps are divided into the following sections:
 
-1. Create the KaseiCoin Token Contract
+1. **Create the KaseiCoin Token Contract**
+2. **Create the KaseiCoin Crowd sale Contract**
+3. **Create the KaseiCoin Deployer Contract**
+4. **Deploy and Test the Crowd sale on a Local Blockchain**
+5. **Optional: Extend the Crowd sale Contract with OpenZeppelin**
+   - This optional step allows you to extend the functionality of the crowd sale contract by adding time restrictions, refund capabilities, and a cap for the total number of tokens. This section is not required but is designed to further your professional development. If you have questions, consult your instructional team.
 
-2. Create the KaseiCoin Crowdsale Contract
+## Evaluation Evidence
 
-3. Create the KaseiCoin Deployer Contract
+To verify that you've successfully implemented the KaseiCoin contracts, you must provide the following evidence:
 
-4. Deploy and Test the Crowdsale on a Local Blockchain
+![KaseiCoin Compiled](Images/KaseiCoinCompiled.png)
 
-5. Optional: Extend the Crowdsale Contract by Using OpenZeppelin
+![KaseiCoin Crowd sale Compiled](Images/KaseiCrowdsaleCompiled.png)
 
-    > **Note:** You can choose whether to complete the optional section. It’s designed to further your professional growth and development but won’t be graded as part of this assignment. If you choose to complete this section, you’ll use OpenZeppelin to extend the functionality of your crowdsale contract by adding time restrictions, refund capabilities, and a cap for the number of tokens that can be created. If you have any questions about how to complete the optional section, please reach out to your instructional team.
+![KaseiCoin Deployer Compiled](Images/KaseiCoinDeployerCompiled.png)
 
-### Evaluation Evidence
-
-![KaseiCoin Compiled](Images\KaseiCoinCompiled.png)
-
-![KaseiCoin Crowdsale compiled](Images\KaseiCrowdsaleCompiled.png)
-
-![KaseiCoin Deployer Compiled](Images\KaseiCoinDeployerCompiled.png)
-
-[Evaluation Video](Evaluation.mp4)
+[Link to Evaluation Video](Evaluation.mp4)
